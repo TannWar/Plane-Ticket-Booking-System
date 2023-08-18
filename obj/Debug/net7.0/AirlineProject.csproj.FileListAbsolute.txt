@@ -1,0 +1,15 @@
+C:\Users\tanne\Downloads\445Project2\AirlineProject\bin\Debug\net7.0\AirlineProject.exe
+C:\Users\tanne\Downloads\445Project2\AirlineProject\bin\Debug\net7.0\AirlineProject.deps.json
+C:\Users\tanne\Downloads\445Project2\AirlineProject\bin\Debug\net7.0\AirlineProject.runtimeconfig.json
+C:\Users\tanne\Downloads\445Project2\AirlineProject\bin\Debug\net7.0\AirlineProject.dll
+C:\Users\tanne\Downloads\445Project2\AirlineProject\bin\Debug\net7.0\AirlineProject.pdb
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\AirlineProject.csproj.AssemblyReference.cache
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\AirlineProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\AirlineProject.AssemblyInfoInputs.cache
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\AirlineProject.AssemblyInfo.cs
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\AirlineProject.csproj.CoreCompileInputs.cache
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\AirlineProject.dll
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\refint\AirlineProject.dll
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\AirlineProject.pdb
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\AirlineProject.genruntimeconfig.cache
+C:\Users\tanne\Downloads\445Project2\AirlineProject\obj\Debug\net7.0\ref\AirlineProject.dll
